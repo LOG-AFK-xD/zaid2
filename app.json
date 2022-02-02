@@ -2,7 +2,7 @@
     "name": "Zaid Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/Official-afk-xD/Zaid2",
+    "repository": "https://github.com/log-afk-xD/Zaid2",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
